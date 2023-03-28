@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51925963893",
+    "project_id": "meditrack-video-call",
+    "storage_bucket": "meditrack-video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51925963893:android:05d3230f2cf2e3408d943c",
+        "android_client_info": {
+          "package_name": "com.asyncdevs.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51925963893-deqq97l18mp0pk6q5pc153tlugr7kfo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcBcJ_1HLJEZHQEVSAxXTFZ56WvfD6IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51925963893-deqq97l18mp0pk6q5pc153tlugr7kfo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
